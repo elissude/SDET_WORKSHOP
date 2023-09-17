@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7904a83-dc6e-4eef-ab17-7dd0f095b7df" name="Changes" comment="create new brunch" />
+    <list default="true" id="a7904a83-dc6e-4eef-ab17-7dd0f095b7df" name="Changes" comment="create new brunch">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/components/Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/components/ResultTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fixture/Fixture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +58,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FillingTest">
+  <component name="RunManager">
     <configuration name="FillingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tests.FillingTest" />
       <module name="SDET_WORKSHOP" />
@@ -203,7 +213,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/tests/FillingTest.java</url>
           <line>18</line>
-          <properties class="tests.FillingTest">
+          <properties class="tests.FillingTest" method="practiceForm">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
